@@ -18,9 +18,9 @@ La aplicación web es un sistema interactivo conectado a un botón inalámbrico,
 Esto quiere decir que debemos poder navegar en la interfaz web únicamente con la presión de un botón, para esto utilizamos las diferentes señales que podemos recibir de un botón (click,doble click y click largo). A estas señales se les asignó un número que las identifique para que dicho número llegue a interfaz web y se ejecute la acción que corresponde.
 
 Id de señal:
-- Click : 1
-- Doble Click : 2
-- Click Largo (3 segundos) : 3
+  - Click : 1
+  - Doble Click : 2
+  - Click Largo (3 segundos) : 3
 
 Los dispositivos que se utilizaron para el desarrollo del proyecto
   - Arduino Flora V2
@@ -32,5 +32,5 @@ Los dispositivos que se utilizaron para el desarrollo del proyecto
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4S9A-iwVIuM" frameborder="0" allowfullscreen></iframe>
 
 #### Equipo:
-    [Uicab Escalante Luis](http://github.com/uicab2593)
-    [Lopez Tugores Juan José](http://github.com/tugorez) 
+  - [Uicab Escalante Luis](http://github.com/uicab2593)
+  - [Lopez Tugores Juan José](http://github.com/tugorez) 
