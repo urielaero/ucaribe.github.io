@@ -44,6 +44,9 @@ Pannic Button cuenta con dos partes: un wearable (desarrollado con Adafriut Flor
 ### Movimiento que activa la alerta
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yP1y_2RMhtk" frameborder="0" allowfullscreen></iframe>
 
+### Envio del correo con el enlace para comenzar la localización
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0C7KsCKBKVA" frameborder="0" allowfullscreen></iframe>
+
 #### Lenguajes de programación usados:
 * Elixir: servidor que proporciona un API para almacenar las distintas coordenadas. [Ver repositorio](https://github.com/urielaero/pannic_server)
 * Arduino: usado para programar la Flora para detectar el movimiento de alerta. [Ver repositorio](https://github.com/urielaero/pannic_flora)
