@@ -9,8 +9,10 @@ date:   2016-05-13 12:12:12
 
 # Sistema de asistencia de dictado con clicker inalambrico
 
+
 ### Resumen
 Este sistema es una aplicación web para personas en la condición de síndrome de enclaustramiento que han perdido la posibilidad de comunicarse mediante el habla común y que cuentan con la posibilidad de presionar un botón o clicker con alguna extremidad que aún tiene control.
+
 
 ### Descripcion
 La aplicación web es un sistema interactivo conectado a un botón inalámbrico, normalmente para navegar en una página web utiliza el desplazamiento del mouse pero debido a las limitaciones de las personas con dicho síndrome algunas personas solo tiene la posibilidad de presionar un botón.  
