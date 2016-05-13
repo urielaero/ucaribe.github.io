@@ -356,3 +356,13 @@ a:focus {
 	-webkit-transform: scale(1)!important;
 	transform: scale(1)!important;
 }
+
+/* .i. */
+.image-center{
+    width: 270px;
+    height: 400px;
+    margin: 0 auto;
+    display: block;
+}
+
+.body li a{color: cornflowerblue;}
